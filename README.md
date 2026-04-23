@@ -17,7 +17,7 @@
 <h3 align="center">Desenvolvedor em Formação | Estudante DEV no SENAI 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Cursando+Desenvolvimento+de+Sistemas+no+SENAI;Sempre+disposto+a+aprender+e+evoluir;Focado+em+solu%C3%A7%C3%B5es+criativas;Entusiasta+de+IA+Generativa" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Cursando+Desenvolvimento+de+Sistemas;Sempre+disposto+a+aprender+e+evoluir;Focado+em+solu%C3%A7%C3%B5es+criativas;Entusiasta+de+IA+Generativa" />
 </p>
 
 ---
