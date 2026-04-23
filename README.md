@@ -40,18 +40,8 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas no SENAI**. Sou um ent
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
 </p>
-
----
-
-### 📚 No Radar (Aprendizado)
-
-- [x] Lógica de Programação e Algoritmos
-- [x] Versionamento com Git & GitHub
-- [ ] Desenvolvimento Web Avançado
-- [ ] Integração com APIs de IA Generativa
 
 ---
 
