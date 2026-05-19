@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/SEU-LINK-AQUI/">
+<a href="https://www.linkedin.com/in/pedro-vazzoler-9a82893b0/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
