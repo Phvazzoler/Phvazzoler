@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Pedro </h1>
 
 <p align="center">
-<a href="phvazzoler08@gmail.com">
+<a href="malito:phvazzoler08@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
