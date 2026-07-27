@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Pedro </h1>
 
 <p align="center">
-<a href="malito:phvazzoler08@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:phvazzoler08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pedro-vazzoler-9a82893b0/">
