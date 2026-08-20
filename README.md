@@ -1,6 +1,7 @@
 <div align="center">
-
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1600&color=00F0FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Pedro!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
+
 
 <br>
 <br>
