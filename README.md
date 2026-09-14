@@ -113,8 +113,4 @@ objetivo    : Desenvolvedor Júnior / Estagiário
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phvazzoler&theme=tokyonight&hide_border=true&background=0f172a&ring=22D3EE&fire=0891b2&currStreakLabel=22D3EE" width="85%" alt="GitHub Streak" />
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0891b2,100:0f172a&height=80&section=footer" width="100%" />
