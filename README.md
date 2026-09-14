@@ -1,80 +1,120 @@
 <div align="center">
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1600&color=00F0FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Pedro!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:0891b2&height=200&section=header&text=Pedro%20Vazzoler&fontSize=44&fontColor=fff&fontAlignY=42&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%7C%20Java%20%2B%20Spring%20Boot%20%2B%20IA%20Generativa&descAlignY=62&descSize=15" width="100%" />
 
-<br>
-<br>
-<p align="center">
-Estudante de Desenvolvimento de Sistemas no SENAI e futuro dev em busca da minha primeira oportunidade na área de tecnologia.<br>
-Curioso por natureza, gosto de aprender fazendo — código, IA e um pouco de tudo que envolve resolver problemas.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=580&lines=whoami+%3E+estudante+de+Desenvolvimento+de+Sistemas;stack+%3E+Java+%2F+Spring+Boot+%2F+Python;foco+%3E+CRUD%2C+levantamento+de+requisitos%2C+APIs;status+%3E+em+busca+da+primeira+vaga" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/pedro-vazzoler"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Phvazzoler08@gmail.com"><img src="https://img.shields.io/badge/Gmail-0891b2?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Phvazzoler"><img src="https://img.shields.io/badge/GitHub-0891b2?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<h3 align="center">Dev em formação 🚀</h3>
+```txt
+> perfil.info
 
-- 💡 Interesse em desenvolvimento web, Inteligência Artificial Generativa, Internet das Coisas (IoT) e bancos de dados.
-- ☕ Aprendo na prática, com projetos e muita curiosidade.
-- 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Júnior / Estagiário.
-- 🧠 Valorizo organização, comunicação e aprendizado contínuo.
+nome        : Pedro Vazzoler
+formação    : Técnico em Desenvolvimento de Sistemas - SENAI (desde 01/2026)
+foco atual  : Java, Spring Boot, IA Generativa
+objetivo    : Desenvolvedor Júnior / Estagiário
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br/>
 
-<!-- --------------------Formação-------------------- -->
+### 🧩 O que eu sei fazer na prática
 
-<h3 align="center">🎓 Formação</h3>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>📋</b><br/>Levantamento de<br/>requisitos</td>
+    <td width="25%" align="center"><b>🔁</b><br/>CRUD completo<br/>(criar, ler, atualizar, excluir)</td>
+    <td width="25%" align="center"><b>☕</b><br/>Lógica de programação<br/>& POO em Java</td>
+    <td width="25%" align="center"><b>🗄️</b><br/>Modelagem de<br/>banco relacional</td>
+  </tr>
+</table>
 
-- 🎓 Técnico em Desenvolvimento de Sistemas – **SENAI** (em andamento, desde jan/2026, período da manhã)
-- 🎓 Curso de IA Generativa em Python – **concluído** (14/05/2026)
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+### 🛠️ Stack
 
-<!-- --------------------Tecnologias-------------------- -->
+<table width="100%">
+  <tr>
+    <td width="20%" valign="top"><b>Linguagens</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/Java-0891b2?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-0891b2?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-0891b2?style=flat-square&logo=javascript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Back-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-0891b2?style=flat-square&logo=springboot&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Front-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-0891b2?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-0891b2?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Banco de Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-0891b2?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-0891b2?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Ferramentas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-0891b2?style=flat-square&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-0891b2?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-0891b2?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-0891b2?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+<br/>
 
-<h4 align="center">💻 Linguagens</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></p>
+### 📌 Projetos
 
-<h4 align="center">🗄️ Banco de Dados</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="28%" align="left">Projeto</th>
+      <th width="50%" align="left">Descrição</th>
+      <th width="22%" align="left">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🤖 <b>Assistente de Código com IA Generativa</b><br/>
+        <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-22D3EE?style=flat-square" />
+      </td>
+      <td>Projeto em grupo, conclusão do curso de IA Generativa. Interpretação de comandos do usuário e geração de sugestões de código com apoio de LLM.</td>
+      <td><code>Python</code> <code>IA Generativa</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<h4 align="center">⚙️ Ferramentas</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
+<br/>
 
-<p align="center">
-Java é minha linguagem mais forte, e venho evoluindo em Python, JavaScript, SQL e HTML/CSS.
-</p>
+### 🎓 Formação
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- **Técnico em Desenvolvimento de Sistemas** — SENAI *(em andamento, desde 01/2026)*
+- **IA Generativa em Python** — concluído em 14/05/2026
 
-<!-- --------------------Projetos-------------------- -->
-
-<h3 align="center">🚀 Projetos em destaque</h3>
-
-- **Assistente de Código com IA Generativa (Python)** — projeto em grupo, conclusão do curso de IA Generativa. Aplicação de processamento de linguagem natural e integração com modelos de linguagem (LLM) para interpretar comandos do usuário e gerar sugestões de código.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<!-- --------------------Objetivo-------------------- -->
-
-<h3 align="center">📈 Objetivo</h3>
-
-- Conseguir minha primeira oportunidade como Desenvolvedor de Software Júnior / Estagiário, aplicando lógica de programação, desenvolvimento web e IA Generativa, e crescendo junto com bons projetos.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<!-- --------------------Contato-------------------- -->
-
-<h3 align="center">📫 Contato</h3>
+<br/>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/pedro-vazzoler"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-<a href="mailto:Phvazzoler08@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
-<a href="https://github.com/Phvazzoler"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phvazzoler&theme=tokyonight&hide_border=true&background=0f172a&ring=22D3EE&fire=0891b2&currStreakLabel=22D3EE" width="85%" alt="GitHub Streak" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0891b2,100:0f172a&height=80&section=footer" width="100%" />
